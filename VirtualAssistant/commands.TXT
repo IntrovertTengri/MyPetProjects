@@ -1,0 +1,11 @@
+1. Say hello
+	need to respond to this greeting
+2. Open the 'YouTube'
+	need to open the webbrowser and then youtube
+3. Send message via Telegram/WhatsApp to "person_name" ... the rest is message
+	need to open the app and send the message
+4. Open Valorant
+	need to open the game
+5. What is the...
+	need to answer to the question by searching
+	

@@ -1,0 +1,5 @@
+API_ID: 25701241
+API_HASH: 18fd68972103eab9c4c0c6aac0302c85
+
+https://python.gotrained.com/messaging-telegram-members-telethon/
+https://python.gotrained.com/scraping-telegram-group-members-python-telethon/#Create_a_Telegram_App_and_Get_Your_Credentials
