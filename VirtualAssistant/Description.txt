@@ -1,1 +1,0 @@
-This virtual assistant is still being developed. In the future I want to make it play chess by using chess library and stockfish.
